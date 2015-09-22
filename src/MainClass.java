@@ -5,5 +5,7 @@ public class MainClass {
 		
 		System.out.println("Hello");
 		System.out.println("Pankaj");
+		System.out.println("ABCD");
+		System.out.println("college");
 	}
 }
